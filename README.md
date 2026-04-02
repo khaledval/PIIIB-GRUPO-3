@@ -19,7 +19,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="fotografía_del_grupo_03" src="C:\Users\VALERIA VILLAIZAN\Downloads\Github" />
+<img width="1408" height="768" alt="fotografía_del_grupo_03" src="/Recursos/Imágenes/Fotografía%20del%20grupo.jpg" />
   <em>Figura 1. Fotografía del equipo 03</em>
 </p>
 
@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Huaman Aguilar Francis Alisson** | Líder del grupo | Interés por la innovación en salud, trabajo en equipo
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Merma Rosales Adriana Isabel Del Pilar** | Responsable de investigación | Aprendizaje en ciencias Biomédicas, curiosidad científica |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Villaizán Ramirez Valeria Camila** | Encargada de documentación | Redacción científica, programación |
+| <img src="/Recursos/Imágenes/Fotografía%20Valeria%20Villaizán.jpeg" width="90"/> | **Villaizán Ramirez Valeria Camila** | Encargada de documentación | Redacción científica, programación |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Valenzuela Mendoza Khaled Sebastian** | Programador | Análisis de datos, simulación |
 
 ---
