@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Huaman Aguilar Francis Alisson** | Líder del grupo | Interés por la innovación en salud, trabajo en equipo
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Merma Rosales Adriana Isabel Del Pilar** | Responsable de investigación | Aprendizaje en ciencias Biomédicas, curiosidad científica |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Villaizán Ramirez Valeria Camila** | Encargadoa de documentación | Redacción científica, programación |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Villaizán Ramirez Valeria Camila** | Encargada de documentación | Redacción científica, programación |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Valenzuela Mendoza Khaled Sebastian** | Programador | Análisis de datos, simulación |
 
 ---
